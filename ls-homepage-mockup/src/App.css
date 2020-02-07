@@ -1,0 +1,47 @@
+#TopNav {
+  background-color: rgb(58, 58, 58);
+  color: #fff;
+  font-size: 0.7rem;
+}
+
+#TopNav ul {
+  display: flex;
+  white-space: nowrap;
+}
+
+#TopNav ul li {
+  margin: auto 0.5rem;
+}
+
+#TopNav a {
+  color: #fff;
+}
+
+#TopNav .col-md-6 {
+  margin-top: 0.7rem;
+}
+
+#Header {
+  height: 5rem;
+  box-shadow: 0 13px 12px 0px #989898;
+}
+
+#Header .container {
+  padding-top: 1.75rem;
+}
+
+#Header .form-control {
+  border-radius: 2rem;
+}
+
+#Icons {
+  margin-top: 3rem;
+}
+
+#Icons .row {
+  justify-content: center;
+}
+
+#Icons img {
+  box-shadow: 2px 5px 7px 0px #636363
+}
